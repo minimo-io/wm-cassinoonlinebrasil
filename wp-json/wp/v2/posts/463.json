@@ -1,0 +1,78 @@
+{
+    "id": 463,
+    "date": "2024-02-15T14:21:01",
+    "date_gmt": "2024-02-15T14:21:01",
+    "guid": { "rendered": "https://cassinoonlinebrasil.com.br/promocoes/bonus-boomerang-caca-niquel-vera-john/" },
+    "modified": "2024-02-15T14:30:33",
+    "modified_gmt": "2024-02-15T14:30:33",
+    "slug": "bonus-boomerang-caca-niquel-vera-john",
+    "status": "publish",
+    "type": "post",
+    "link": "https://cassinoonlinebrasil.com.br/promocoes/bonus-boomerang-caca-niquel-vera-john/",
+    "title": { "rendered": "Bonus Boomerang ca\u00e7a n\u00edquel Vera John" },
+    "content": { "rendered": "", "protected": false },
+    "excerpt": { "rendered": "", "protected": false },
+    "author": 1,
+    "featured_media": 465,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "_acf_changed": false,
+        "_et_pb_use_builder": "off",
+        "_et_pb_old_content": "",
+        "_et_gb_content_width": "",
+        "inline_featured_image": false,
+        "footnotes": ""
+    },
+    "categories": [13],
+    "tags": [],
+    "class_list": [
+        "post-463",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-promocoes"
+    ],
+    "acf": [],
+    "aioseo_notices": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/posts/463",
+                "targetHints": { "allow": ["GET"] }
+            }
+        ],
+        "collection": [{ "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/posts" }],
+        "about": [{ "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/types/post" }],
+        "author": [{ "embeddable": true, "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/users/1" }],
+        "replies": [
+            { "embeddable": true, "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/comments?post=463" }
+        ],
+        "version-history": [
+            { "count": 0, "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/posts/463/revisions" }
+        ],
+        "wp:featuredmedia": [
+            { "embeddable": true, "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/media/465" }
+        ],
+        "wp:attachment": [{ "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/media?parent=463" }],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/categories?post=463"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/tags?post=463"
+            }
+        ],
+        "curies": [{ "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }]
+    }
+}

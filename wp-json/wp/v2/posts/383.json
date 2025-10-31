@@ -1,0 +1,82 @@
+{
+    "id": 383,
+    "date": "2024-02-05T23:54:30",
+    "date_gmt": "2024-02-05T23:54:30",
+    "guid": { "rendered": "https://cassinoonlinebrasil.com.br/?p=383" },
+    "modified": "2024-08-07T20:32:55",
+    "modified_gmt": "2024-08-07T20:32:55",
+    "slug": "dragon-strike",
+    "status": "publish",
+    "type": "post",
+    "link": "https://cassinoonlinebrasil.com.br/jogos/dragon-strike/",
+    "title": { "rendered": "Dragon Strike" },
+    "content": {
+        "rendered": "\n[et_pb_section fb_built=&#8221;1&#8243; admin_label=&#8221;section&#8221; _builder_version=&#8221;4.16&#8243; global_colors_info=&#8221;{}&#8221;][et_pb_row admin_label=&#8221;row&#8221; _builder_version=&#8221;4.16&#8243; background_size=&#8221;initial&#8221; background_position=&#8221;top_left&#8221; background_repeat=&#8221;repeat&#8221; global_colors_info=&#8221;{}&#8221;][et_pb_column type=&#8221;4_4&#8243; _builder_version=&#8221;4.16&#8243; custom_padding=&#8221;|||&#8221; global_colors_info=&#8221;{}&#8221; custom_padding__hover=&#8221;|||&#8221;][et_pb_text admin_label=&#8221;Text&#8221; _builder_version=&#8221;4.16&#8243; background_size=&#8221;initial&#8221; background_position=&#8221;top_left&#8221; background_repeat=&#8221;repeat&#8221; global_colors_info=&#8221;{}&#8221;][/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]\n",
+        "protected": false
+    },
+    "excerpt": { "rendered": "", "protected": false },
+    "author": 1,
+    "featured_media": 359,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "_acf_changed": true,
+        "_et_pb_use_builder": "on",
+        "_et_pb_old_content": "",
+        "_et_gb_content_width": "",
+        "inline_featured_image": false,
+        "footnotes": ""
+    },
+    "categories": [11, 25],
+    "tags": [],
+    "class_list": [
+        "post-383",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-jogos",
+        "category-caca-niquel"
+    ],
+    "acf": [],
+    "aioseo_notices": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/posts/383",
+                "targetHints": { "allow": ["GET"] }
+            }
+        ],
+        "collection": [{ "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/posts" }],
+        "about": [{ "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/types/post" }],
+        "author": [{ "embeddable": true, "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/users/1" }],
+        "replies": [
+            { "embeddable": true, "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/comments?post=383" }
+        ],
+        "version-history": [
+            { "count": 0, "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/posts/383/revisions" }
+        ],
+        "wp:featuredmedia": [
+            { "embeddable": true, "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/media/359" }
+        ],
+        "wp:attachment": [{ "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/media?parent=383" }],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/categories?post=383"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https://cassinoonlinebrasil.com.br/wp-json/wp/v2/tags?post=383"
+            }
+        ],
+        "curies": [{ "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }]
+    }
+}
